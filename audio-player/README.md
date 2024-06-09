@@ -1,6 +1,6 @@
 # audio-player
 
-This project includes visualizations based on audio frequency. It uses the Web Audio API to play the audio and uses the Canvas element to for visualization. This is a project I generated for fun and for learning how to work with the various APIs available, with TypeScript.
+This project includes visualizations based on audio frequency. It uses the Web Audio API to play the audio and uses the Canvas element to for visualization. This is a project I generated for fun and for learning how to work with the various APIs available, while using TypeScript.
 
 To install dependencies:
 
