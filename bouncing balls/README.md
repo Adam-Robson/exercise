@@ -1,5 +1,7 @@
 # bouncing-balls
 
+This project is an activity that is included in the JavaScript Guide from [MDN](https://developer.mozilla.org/en-US/). Learning fun!
+
 To install dependencies:
 
 ```bash
