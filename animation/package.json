@@ -1,0 +1,15 @@
+{
+  "name": "animation",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "clean": "rm -rf index.js",
+    "build": "npm run clean && tsc"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
